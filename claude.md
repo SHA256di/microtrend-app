@@ -44,7 +44,7 @@ Portfolio project: must be production-quality, mobile-first, and publicly usable
 
 ## Build plan
 - [x] 0. Scaffold Vite React TS app, push to GitHub
-- [ ] 1. Placeholder homepage deployed to Vercel
+- [x] 1. Placeholder homepage deployed to Vercel
 - [ ] 2. `aesthetics.json` with 15 cards (id, name, summary, visual_markers, not_to_confuse_with, source)
 - [ ] 3. `api/analyze.ts` with Gemini + enum schema + server-side validation
 - [ ] 4. Upload input (`accept="image/*"`), client-side resize, loading and error states
